@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/robertji/Aza/_apis/build/status/Robert-Ji.pipelines-java)](https://dev.azure.com/robertji/Aza/_build/latest?definitionId=1)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
